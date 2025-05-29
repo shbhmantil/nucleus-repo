@@ -1,0 +1,9 @@
+{
+    "pathsToAnalyze": [
+        "**/src/base/BoringVault.*",
+        "**/src/base/Roles/ManagerWithMerkleVerification.*",
+        "**/src/base/Roles/AccountantWithRateProviders.*",
+        "**/src/base/Roles/TellerWithMultiAssetSupport.*",
+        "**/src/atomic-queue/AtomicQueue.*"
+    ]
+}
